@@ -3,11 +3,11 @@ Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)]
 
 
 
-Time: Monday and Wednesday 10:20pm - 11:40pm
+Time: Monday and Wednesday 10:20am - 11:40am
 
 Location: Engineering Building, **EB 3400**  
 
-Office Hours: Monday and Wednesday 11:40pm-12:30pm, EB 2134
+Office Hours: Monday and Wednesday 11:40am-12:30pm, EB 2134
 
 
 ## Course Description

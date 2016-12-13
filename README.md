@@ -25,7 +25,7 @@ Announcements will be emailed to the course mailing list. A welcome note will be
 The grade will be calculated as follows:
 
 * Assignments: 40%
-* [Project](https://github.com/jiayuzhou/CSE847-2016Spring/tree/master/project): 25% 
+* Project: 25% 
 * Exam: 30% 
 * Class participation: 5% 
 

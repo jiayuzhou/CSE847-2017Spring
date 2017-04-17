@@ -9,7 +9,7 @@ Every team has 10 minutes to present the class project.
 |	1	|	Approaches to Incorporating Whole Genome and Multi-Omics Information in the context of Clincal Prediction	|	1	|	Avadhanam, Siddharth Narayan			|
 |	2	|	Application of Neural network in structured MRI data in the context of Alzheimer’s Disease	|	2	|	Banerjee, Chitrak	and  Banik, Asish		|
 |	3	|	Multispectral Pedestrian Detection With Deep Learning	|	2	|	Banerjee, Sudipta	and Dale, Melissa Renee		|
-|	4	|	Automatic Labeling of Videos using Deep Neural Network	|	2	|	Chugh, Tarang	and Dey, Rahul		|
+|	4	|	Image classification for dogs and cats	|	2	|	Sun, Penghui	and Yang, Kaixu		|
 |	5	|	Neural Network for Language Classification	|	1	|	Du, Jun			|
 |	6	|	Learning to be Poetic: Automatic Generation of Chinese Song Ci Using RNN	|	3	|	Du, Nan	and Wang, Wei	and Zhu, Zhuangdi	|
 |	7	|	Discovering the underlying topological space of extracted features	|	2	|	Karimi, Hamid	and Lefrois, Harrison James Lester		|
@@ -27,4 +27,4 @@ Every team has 10 minutes to present the class project.
 |	13	|	An analysis and verification of the efficacy of using Fast Weights with RNNs	|	2	|	Mathew, Adi	and Wayman, Eric Alan		|
 |	14	|	Driver Drowsiness Detection using a combination of driving behavior and driver's state	|	2	|	Ni, Ou	and Tu, Linlin		|
 |	15	|	Complex human phenotype prediction from high dimensional whole genome profiles	|	2	|	Sun, Mengying	and Tong, Xiaoran		|
-|	16	|	Image classification for dogs and cats	|	2	|	Sun, Penghui	and Yang, Kaixu		|
+|	16	|	Automatic Labeling of Videos using Deep Neural Network	|	2	|	Chugh, Tarang	and Dey, Rahul		|

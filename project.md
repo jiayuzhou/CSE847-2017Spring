@@ -7,7 +7,7 @@ Every team has 10 minutes to present the class project.
 |	Presentation Order	|	Title	|	Member | Members |
 | ------------------- |:------|:------:| :------ |
 |	1	|	Approaches to Incorporating Whole Genome and Multi-Omics Information in the context of Clincal Prediction	|	1	|	Avadhanam, Siddharth Narayan			|
-|	2	|	Application of Neural network in structured MRI data in the context of Alzheimer’s Disease	|	2	|	Banerjee, Chitrak	and Asish Banik		|
+|	2	|	Application of Neural network in structured MRI data in the context of Alzheimer’s Disease	|	2	|	Banerjee, Chitrak	and  Banik, Asish		|
 |	3	|	Multispectral Pedestrian Detection With Deep Learning	|	2	|	Banerjee, Sudipta	and Dale, Melissa Renee		|
 |	4	|	Automatic Labeling of Videos using Deep Neural Network	|	2	|	Chugh, Tarang	and Dey, Rahul		|
 |	5	|	Neural Network for Language Classification	|	1	|	Du, Jun			|

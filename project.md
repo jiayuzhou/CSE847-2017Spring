@@ -6,7 +6,7 @@ Every team has 10 minutes to present the class project.
 
 |	Presentation Order	|	Title	|	Member | Members |
 | ------------------- |:------|:------:| :------ |
-|	10	|	Human Source Data Analysis	|	1	|	Li, Leyi			|
+|	1	|	Human Source Data Analysis	|	1	|	Li, Leyi			|
 |	2	|	Application of Neural network in structured MRI data in the context of Alzheimer’s Disease	|	2	|	Banerjee, Chitrak	and  Banik, Asish		|
 |	3	|	Multispectral Pedestrian Detection With Deep Learning	|	2	|	Banerjee, Sudipta	and Dale, Melissa Renee		|
 |	4	|	Image classification for dogs and cats	|	2	|	Sun, Penghui	and Yang, Kaixu		|
